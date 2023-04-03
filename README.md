@@ -28,6 +28,7 @@
 
 Таким образом, функции приложений с бесплатными курсами позволяют пользователям учиться не выходя из дома, выбирая наиболее интересующие и нужные им темы, повышая профессиональный и личностный уровень. Они являются отличной возможностью для самообразования и личностного роста.
 <h1>Скриншоты приложения</h1>
-![image](https://user-images.githubusercontent.com/80205178/229606608-10f9e760-b6a6-4c56-871a-14ac81c43d40.png)
-![image](https://user-images.githubusercontent.com/80205178/229606645-f2f4c9d5-247b-42eb-a0cd-4748ba98ce92.png)
-![image](https://user-images.githubusercontent.com/80205178/229606672-d293e4a1-0cdb-4c8c-9354-07272ccfb9cb.png)
+
+![photo_2023-04-03_22-18-42](https://user-images.githubusercontent.com/80205178/229607222-51da101a-338a-47ac-909b-ccee4d4d0fcb.jpg)
+![photo_2023-04-03_22-18-42 (2)](https://user-images.githubusercontent.com/80205178/229607239-8fdb9d89-98e4-462a-9697-4f593c952fa0.jpg)
+![photo_2023-03-25_12-42-19](https://user-images.githubusercontent.com/80205178/229607262-048e0c45-88c8-48d6-bf6e-030a78a3d0f6.jpg)
